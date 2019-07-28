@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "672118764707",
+    "firebase_url": "https://expense-81ba7.firebaseio.com",
+    "project_id": "expense-81ba7",
+    "storage_bucket": "expense-81ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672118764707:android:a6fe23bf7d729297",
+        "android_client_info": {
+          "package_name": "daw.expense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672118764707-bopu3lgl010md8lk1p238m78fsmrgfis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "daw.expense",
+            "certificate_hash": "f0389073e60a4fbf32df51a19099603945900074"
+          }
+        },
+        {
+          "client_id": "672118764707-2t163sl3d4kg17j42lq2asot6vqp49e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgpSr-HYNO8zXOq9FCmz73U8xfdG6m7Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672118764707-2t163sl3d4kg17j42lq2asot6vqp49e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
